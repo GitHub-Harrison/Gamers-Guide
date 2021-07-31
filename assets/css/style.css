@@ -1,6 +1,7 @@
 * {
-    background-color: rgba(129, 129, 129, 0.979);
-    color:honeydew; 
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
 /* landing page button + heading */
@@ -24,26 +25,40 @@
     margin-top: 0px;
 }
 
-/* header image */
+/* header image + cover text */
 
-/* #outer-header-image {
-    height: 600px;
+#outer-header-image {
+    height: 350px;
     width: 100%;
     overflow: hidden;
+
     position: relative;
 }
 
 #header-image {
-    height: 600%;
+    height: 200%;
     width: 100%;
-    background: url(../images/apex-legends-logo-font-webp) no-repeat center center;
-} */
-
-/* cover text */
+    /* need to change image to an Apex Legends banner when I find one that is compatible */
+    background: url('../images/hero-image.webp') no-repeat center center;
+}
 
 #cover-text {
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 150%;
+    letter-spacing: 4px;
+
+    width: 500px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background: transparent;
+
+    bottom: 30px;
+    left: 750px;  
+
+    position: absolute;
 }
 
 /* navigation list */
