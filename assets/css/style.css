@@ -1,0 +1,43 @@
+* {
+    background-color: grey;
+    color:honeydew; 
+}
+
+/* Gamers Guide heading/logo */
+
+#logo {
+    float: left;
+    font-size: 290%;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+/* navigation list */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 5px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
