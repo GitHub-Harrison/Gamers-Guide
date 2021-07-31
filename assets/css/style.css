@@ -1,7 +1,7 @@
-/* * {
+* {
     background-color: rgba(129, 129, 129, 0.979);
     color:honeydew; 
-} */
+}
 
 /* landing page button + heading */
 
@@ -26,7 +26,7 @@
 
 /* header image */
 
-#outer-header-image {
+/* #outer-header-image {
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -36,7 +36,14 @@
 #header-image {
     height: 600%;
     width: 100%;
-    background: url() no-repeat center center;
+    background: url(../images/apex-legends-logo-font-webp) no-repeat center center;
+} */
+
+/* cover text */
+
+#cover-text {
+    color: white;
+    font-size: 150%;
 }
 
 /* navigation list */
@@ -69,3 +76,4 @@
 .active {
     border-bottom: 1px solid black;
 }
+
