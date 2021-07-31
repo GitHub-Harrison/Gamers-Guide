@@ -28,7 +28,7 @@
 /* header image + cover text */
 
 #outer-header-image {
-    height: 350px;
+    height: 550px;
     width: 100%;
     overflow: hidden;
 
@@ -36,10 +36,11 @@
 }
 
 #header-image {
-    height: 200%;
+    height: 100%;
     width: 100%;
-    /* need to change image to an Apex Legends banner when I find one that is compatible */
-    background: url('../images/hero-image.webp') no-repeat center center;
+    /* image is not completely viewable */ 
+    /* image was found by a google image search: https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg */
+    background: url('../images/apex-banner-characters.jpg') no-repeat center center;
 }
 
 #cover-text {
