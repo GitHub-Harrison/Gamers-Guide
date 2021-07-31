@@ -1,5 +1,5 @@
 * {
-    background-color: grey;
+    background-color: rgb(44, 42, 42);
     color:honeydew; 
 }
 
@@ -9,14 +9,14 @@
     float: left;
     font-size: 290%;
     margin-left: 20px;
-    margin-top: 5px;
+    margin-top: 0px;
 }
 
 /* navigation list */
 
 #menu {
-    font-size: 100%;
-    letter-spacing: 5px;
+    font-size: 105%;
+    letter-spacing: 1.5px;
 }
 
 #menu, #logo {
@@ -27,6 +27,7 @@
     float: right;
     list-style-type: none;
     margin-right: 20px;
+    margin-top: 0px;
 }
 
 #menu a {
