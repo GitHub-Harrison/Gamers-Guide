@@ -93,6 +93,15 @@
     border-bottom: 1px solid black;
 }
 
+
+/* footer */
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
 /* For larger to medium screen size from 1200px wide and down */
 
 
