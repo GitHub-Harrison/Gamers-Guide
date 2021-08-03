@@ -47,6 +47,7 @@
     color: rgb(0, 0, 0);
     font-size: 150%;
     letter-spacing: 4px;
+    text-align: center;
 
     width: 500px;
     height: 200px;
@@ -93,6 +94,9 @@
     border-bottom: 1px solid black;
 }
 
+/* Home page styling */
+
+/* Characters page styling */
 
 /* footer */
 
