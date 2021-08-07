@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
     border: none;
+
+    background-color: lightgrey;
+    color: black;
 }
 
 /* landing page button + heading */
@@ -23,6 +26,7 @@
     font-size: 290%;
     margin-left: 20px;
     margin-top: 0px;
+    color: rgb(53, 247, 46);
 }
 
 /* header image + cover text */
@@ -58,7 +62,7 @@
     background: transparent;
 
     bottom: 30px;
-    left: 750px;  
+    left: 750px;
 
     position: absolute;
 }
@@ -94,6 +98,16 @@
     border-bottom: 1px solid black;
 }
 
+/* Font */
+
+h3 {
+    font-size: 130%;
+}
+
+h4 {
+    font-size: 110%;
+}
+
 /* Home page styling */
 
 /* Characters page styling */
@@ -106,7 +120,7 @@
     text-align: center;
 }
 
-#item-list {
+table {
     text-align: left;
 }
 
@@ -115,6 +129,20 @@ table, th, td {
     border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
+}
+
+#healing-list {
+    width: 60%;
+}
+
+#shield-list {
+    width: 60%;
+    height: 50%;
+}
+
+#backpack-list {
+    width: 60%;
+    height: 50%;
 }
 
 #item-table h4 {
