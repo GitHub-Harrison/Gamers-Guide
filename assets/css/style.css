@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
     border: none;
-
-    background-color: lightgrey;
-    color: black;
 }
 
 /* landing page button + heading */
@@ -122,6 +119,7 @@ h4 {
 
 table {
     text-align: left;
+    border: 1px solid black;
 }
 
 table, th, td {
