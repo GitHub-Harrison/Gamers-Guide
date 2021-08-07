@@ -102,8 +102,19 @@
 
 /* Items page styling */
 
+#item-div {
+    text-align: center;
+}
+
 #item-list {
     text-align: left;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #item-table h4 {
