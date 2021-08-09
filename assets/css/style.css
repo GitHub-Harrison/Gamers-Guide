@@ -156,6 +156,26 @@ table, th, td {
     text-align: center;
 }
 
+/* Feedback page */
+
+form {
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+}
+
+#improve  {
+    width: 60%;
+    height: 75px;
+    border: 1px solid black;
+}
+
+#add_comments {
+    width: 60%;
+    height: 75%;
+    border: 1px solid black;
+}
+
 /* video styling */
 
 #video {

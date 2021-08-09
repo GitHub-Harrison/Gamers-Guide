@@ -49,10 +49,51 @@
     <br>
     <section>
         <div>
-            <form>Feedback
-                <br>
-                <label>example text</label>
-                <input type="text">
+            <form action="" method="POST">
+                <fieldset>
+                    <legend>Feedback</legend>
+                    <br> 
+                    <p>Did you acheive your goal?</p>
+
+                    <input name="goal_acheived" id="yes" type="radio">
+                    <label for="yes">Yes</label>
+
+                    <input name="goal_acheived" id="no" type="radio">
+                    <label for="no">No</label>
+
+                    <br><br> 
+
+                    <label for="improve">If not, let us know how we can improve:</label>
+
+                    <br> 
+
+                    <textarea id="improve" name="improve" rows="4" cols="50"></textarea>
+
+                    <br> <br>
+
+                    <p>How did you find navigating through the site?</p>
+
+                    <input name="navigation" value="easy" type="radio">
+                    <label for="easy">Easy</label>
+
+                    <input name="navigation" value="so-so" type="radio">
+                    <label for="so-so">Neither Easy nor Hard</label>
+
+                    <input name="navigation" value="hard" type="radio">
+                    <label for="hard">Hard</label>
+
+                    <input name="navigation" value="confusing" type="radio">
+                    <label for="confusing">Confusing</label>
+
+                    <br> <br> 
+
+                    <label for="add_comments">Additional Comments:</label>
+
+                    <br>
+
+                    <textarea id="add_comments" name="add_comments" rows="4" cols="50"></textarea>
+
+                </fieldset>
             </form>
         </div>
     </section>
