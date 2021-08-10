@@ -4,6 +4,17 @@
     border: none;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+main {
+    flex-grow: 1;
+}
+
 /* landing page button + heading */
 
 #landing-h1 {
