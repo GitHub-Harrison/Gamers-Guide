@@ -23,7 +23,7 @@
     font-size: 290%;
     margin-left: 20px;
     margin-top: 0px;
-    color: rgb(53, 247, 46);
+    color: rgb(238, 132, 32);
 }
 
 /* header image + cover text */
@@ -39,7 +39,7 @@
 #header-image {
     height: 100%;
     width: 100%;
-    /* image is not completely viewable */ 
+    /* image is not completely viewable (changing image at some point) */ 
     /* image was found by a google image search: https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg */
     background: url('../images/apex-banner-characters.jpg') no-repeat center center;
 }
@@ -112,8 +112,6 @@ section div {
 }
 
 /* Home page styling */
-
-
 
 /* Characters page styling */
 
