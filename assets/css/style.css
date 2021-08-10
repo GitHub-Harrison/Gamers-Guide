@@ -39,7 +39,7 @@
 #header-image {
     height: 100%;
     width: 100%;
-    /* image is not completely viewable (changing image at some point) */ 
+    /* image is not completely viewable (change image at some point) */ 
     /* image was found by a google image search: https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg */
     background: url('../images/apex-banner-characters.jpg') no-repeat center center;
 }
@@ -95,7 +95,7 @@
     border-bottom: 1px solid black;
 }
 
-/* Font */
+/* Font (Find new font) */
 
 h3 {
     font-size: 130%;
@@ -184,7 +184,7 @@ form {
 
 footer {
     text-align: center;
-    background-color: black;
+    background-color: rgb(51, 44, 44);
     color: white;
 }
 
