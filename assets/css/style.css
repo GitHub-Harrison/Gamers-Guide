@@ -8,22 +8,6 @@ body {
     background-color: #e0dfdfe8;
     text-align: center;
 }
-/* Grid styling */
-
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    background-color: aqua;
-    padding: 10px;
-}
-
-.grid-item {
-    background-color: rgb(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-}
 
 /* Gamers Guide heading/logo */
 
@@ -119,11 +103,30 @@ section div {
     padding-right: 10%;
 }
 
-
-
 /* Home page styling */
 
 /* Characters page styling */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: #e0dfdfe8;
+    padding: 5px;
+}
+
+.grid-item {
+    background-color: #e0dfdfe8;
+    /* border: 1px solid rgba(0, 0, 0, 0.8); */
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    border-radius: 16px;
+    height: 75%;
+    max-width: 100%;
+}
 
 /* Weapons page styling */
 
