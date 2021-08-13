@@ -5,18 +5,24 @@
 }
 
 body {
-    background-color: #e0dfdf;
+    background-color: #e0dfdfe8;
+    text-align: center;
 }
-/* landing page button + heading */
+/* Grid styling */
 
-#landing-h1 {
-    font-size: 500%;
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: aqua;
+    padding: 10px;
 }
 
-#enter {
-    background-color: red;
-    width: 20%;
-    height: 30px;
+.grid-item {
+    background-color: rgb(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
 }
 
 /* Gamers Guide heading/logo */
@@ -26,7 +32,7 @@ body {
     font-size: 290%;
     margin-left: 20px;
     margin-top: 0px;
-    color: rgb(238, 132, 32);
+    color: rgba(6, 31, 139, 0.959);
 }
 
 /* header image + cover text */
@@ -48,7 +54,7 @@ body {
 }
 
 #cover-text {
-    color: rgb(231, 104, 20);
+    color: rgb(31, 255, 10);
     font-size: 150%;
     letter-spacing: 4px;
     text-align: center;
@@ -109,10 +115,11 @@ h4 {
 }
 
 section div {
-    
     padding-left: 10%;
     padding-right: 10%;
 }
+
+
 
 /* Home page styling */
 
