@@ -186,13 +186,13 @@ table, th, td {
 .map-grid-container {
     display: grid;
     grid-template-columns: auto auto;
-    background-color: #d84444e8;
+    background-color: #e0dfdfe8;
     padding: 10px;
 }
 
 .map-grid-item {
-    background-color: #32bd2de8;
-    border: 1px solid rgb(0, 0, 0);
+    background-color: #e0dfdfe8;
+    /* border: 1px solid rgb(0, 0, 0); */
     padding: 10px;
     font-size: 20px;
     text-align: center;
