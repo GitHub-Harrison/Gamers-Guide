@@ -7,6 +7,8 @@
 body {
     background-color: #e0dfdfe8;
     text-align: center;
+    font-size: 135%;
+    font-weight: normal;
 }
 
 /* Gamers Guide heading/logo */
@@ -135,6 +137,7 @@ section div {
     padding: 10px;
     font-size: 30px;
     text-align: center;
+    font-weight: bold;
 }
 
 img {
@@ -188,7 +191,9 @@ table, th, td {
     display: grid;
     grid-template-columns: auto auto;
     background-color: #e0dfdfe8;
-    padding: 10px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .map-grid-item {
