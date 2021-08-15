@@ -8,7 +8,6 @@ body {
     background-color: #e0dfdfe8;
     text-align: center;
     font-size: 135%;
-    font-weight: normal;
 }
 
 /* Gamers Guide heading/logo */
@@ -97,7 +96,7 @@ h3 {
 }
 
 h4 {
-    font-size: 120%;
+    font-size: 130%;
 }
 
 section div {
@@ -106,6 +105,11 @@ section div {
 }
 
 /* Home page styling */
+
+#main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
 .index-grid-container {
     display: inline-grid;
@@ -122,6 +126,19 @@ section div {
     padding: 10px;
     
 }
+
+#download {
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+
+    font-size: 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 /* Characters page styling */
 
 .character-grid-container {
