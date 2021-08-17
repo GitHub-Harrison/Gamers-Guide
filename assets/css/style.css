@@ -190,7 +190,7 @@ section div {
     font-weight: bold;
 }
 
-img {
+.character-grid-item > img {
     border-radius: 16px;
     height: 75%;
     max-width: 100%;
@@ -209,10 +209,51 @@ img {
 .weapon-grid-item {
     /* background-color: brown; */
     border: 1px solid black;
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
     text-align: center;
     font-weight: bold;
+    padding-bottom: 0;
+}
+
+#havoc {
+    max-width: 100%;
+    height: auto;
+}
+
+#flateline {
+    max-width: 80%;
+    height: auto;
+}
+
+#hemlok {
+    max-width: 100%;
+    height: auto;
+}
+
+#carbine {
+    max-width: 100%;
+    height: auto;
+}
+
+#alternator {
+    max-width: 100%;
+    height: auto;
+}
+
+#prowler {
+    max-width: 100%;
+    height: auto;
+}
+
+#r99 {
+    max-width: 100%;
+    height: auto;
+}
+
+#volt {
+    max-width: 100%;
+    height: auto;
 }
 
 /* Items page styling */
