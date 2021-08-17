@@ -198,6 +198,23 @@ img {
 
 /* Weapons page styling */
 
+.weapon-grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-columns: auto auto;
+    /* background-color: blueviolet; */
+    padding: 10px;
+}
+
+.weapon-grid-item {
+    /* background-color: brown; */
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
 /* Items page styling */
 
 #item-div {
