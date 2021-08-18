@@ -140,6 +140,8 @@ section div {
     font-size: 32px;
     margin: 4px 2px;
     cursor: pointer;
+
+    border-radius: 16px;
 }
 
 #character-select {
@@ -314,10 +316,11 @@ table, th, td {
 
 /* Feedback page */
 
-form {
-    border: 1px solid black;
-    text-align: center;
-    width: 50%;
+.center {
+    margin: auto;
+    width: 60%;
+    border: 2px solid black;
+    padding: 10px;
 }
 
 #improve  {
@@ -332,10 +335,53 @@ form {
     border: 1px solid black;
 }
 
+input[type=radio] {
+    text-align: left;
+}
+
+#submit {
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    border: 1px solid black;
+    border-radius: 16px;
+}
+
+#home {
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    border: 1px solid black;
+    border-radius: 16px;
+}
+
+#thank-you-message {
+    font-weight: bolder;
+    font-size: larger;
+}
+
 /* video styling */
 
 #video {
     text-align: center;
+}
+
+/* all image styling */
+
+img {
+    border-radius: 16px;
 }
 
 /* footer */
