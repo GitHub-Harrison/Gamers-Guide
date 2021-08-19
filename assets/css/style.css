@@ -218,46 +218,6 @@ section div {
     padding-bottom: 0;
 }
 
-#havoc {
-    max-width: 100%;
-    height: auto;
-}
-
-#flateline {
-    max-width: 80%;
-    height: auto;
-}
-
-#hemlok {
-    max-width: 100%;
-    height: auto;
-}
-
-#carbine {
-    max-width: 100%;
-    height: auto;
-}
-
-#alternator {
-    max-width: 100%;
-    height: auto;
-}
-
-#prowler {
-    max-width: 100%;
-    height: auto;
-}
-
-#r99 {
-    max-width: 100%;
-    height: auto;
-}
-
-#volt {
-    max-width: 100%;
-    height: auto;
-}
-
 /* Items page styling */
 
 #item-div {
