@@ -267,6 +267,21 @@ section div {
     height: 80%;
 }
 
+.barrels-mags-stocks {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+
+.barrels {
+    padding: 10px;
+    font-size: 25px;
+    text-align: left;
+    font-weight: bold;
+    
+    border: 1px solid black;
+}
+
 /* Items page styling */
 
 #item-div {
