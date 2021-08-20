@@ -94,11 +94,11 @@ h2 {
 }
 
 h3 {
-    font-size: 140%;
+    font-size: 120%;
 }
 
 h4 {
-    font-size: 120%;
+    font-size: 100%;
 }
 
 section div {
@@ -209,11 +209,25 @@ section div {
 
 .weapon-grid-item {
     /* background-color: brown; */
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 10px;
     font-size: 25px;
     text-align: center;
     font-weight: bold;
+}
+
+.weapon-grid-item-pistols {
+    /* background-color: brown; */
+    /* border: 1px solid black; */
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    height: 381px;
+}
+
+.weapon-grid-item > img {
+    height: auto;
 }
 
 #weapon-grid-header {
@@ -221,8 +235,36 @@ section div {
     font-size: 30px;
 }
 
-#p2020 {
+#alternator {
+    height: 70%;
+}
+
+#bocek {
+    height: 70%;
+}
+
+#charge-rifle {
+    height: 70%;
+}
+
+#mozambique {
+    height: 70%;
+}
+
+/* #wingman-grid {
     grid-column: 1 / 3;
+} */
+
+#wingman {
+    height: 80%;
+}
+
+#re-45 {
+    height: 80%;
+}
+
+#p2020 {
+    height: 80%;
 }
 
 /* Items page styling */
