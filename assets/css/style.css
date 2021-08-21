@@ -90,15 +90,15 @@ body {
 
 /* Font (Find new font) */
 h2 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 h3 {
-    font-size: 120%;
+    font-size: 30px;
 }
 
 h4 {
-    font-size: 100%;
+    font-size: 25px;
 }
 
 section div {
@@ -299,6 +299,21 @@ section div {
 
 /* Items page styling */
 
+.healing-list-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: blueviolet; */
+    padding: 10px;
+}
+
+.healing-item {
+    padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    
+    border: 1px solid black;
+}
+
 .shield-list-container {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -310,7 +325,6 @@ section div {
     padding: 10px;
     font-size: 20px;
     text-align: left;
-    font-weight: bold;
     
     border: 1px solid black;
 }
@@ -338,7 +352,6 @@ section div {
     padding: 10px;
     font-size: 20px;
     text-align: left;
-    font-weight: bold;
     
     border: 1px solid black;
 }
