@@ -299,6 +299,54 @@ section div {
 
 /* Items page styling */
 
+.shield-list-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: blueviolet; */
+    padding: 10px;
+}
+
+.shield-item {
+    padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    
+    border: 1px solid black;
+}
+
+#body-shield {
+    grid-row: 2 / 7;
+}
+
+#helmet {
+    grid-row: 7 / 11;
+}
+
+#knockdown {
+    grid-row: 11 / 15;
+}
+
+.backpack-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: blueviolet; */
+    padding: 10px;
+}
+
+.backpack-item {
+    padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    
+    border: 1px solid black;
+}
+
+#backpack {
+    grid-row: 2 / 6;
+}
+
 #item-div {
     text-align: center;
 }

@@ -89,50 +89,89 @@
                 </tr>
             </table>
             <br>
-            <table id="shield-list"> <!--Change from table to grid -->
-                <h4>Shield Item List</h4>
-                <tr>
-                    <th>Shield Items</th>
-                    <th>Rarity</th>
-                    <th>Effects</th>
-                </tr>
-                <tr>
-                    <td>Body Shield</td>
-                    <td>Common <br><br> Rare <br><br> Epic <br><br> Legendary</td>
-                    <td>- Absorbs 50 Damage <br><br> - Absorbs 75 Damage <br><br> - Absorbs 100 Damage <br><br> -
-                        Absorbs 100 Damage <br> - Syringe & Shield Cells are twice effective</td>
-                </tr>
-                <tr>
-                    <td>Helmet</td>
-                    <td>Common <br> Rare <br> Epic <br> Legendary</td>
-                    <td>- 30% Headshot Damage Reduction <br> - 40% Headshot Damage Reduction <br> - 50% Headshot Damage
-                        Reduction <br> - 50% Headshot Damage Reduction <br> - Reduces Tactical & Ultimate Ability
-                        Recharge Times</td>
-                </tr>
-                <tr>
-                    <td>Knockdown Shield</td>
-                    <td>Common <br> Rare <br> Epic <br> Legendary</td>
-                    <td>- Blocks 100 Damage <br> - Blocks 250 Damage <br> - Blocks 750 Damage <br> - Blocks 750 Damage
-                        <br> - Self-Resurrect When Downed (1 Time Use)
-                    </td>
-                </tr>
-            </table>
-            <br>
-            <table id="backpack-list">
-                <h4>Backpack Item List</h4>
-                <tr>
-                    <th>Backpack Items</th>
-                    <th>Rarity</th>
-                    <th>Effects</th>
-                </tr>
-                <tr>
-                    <td>Backpack</td>
-                    <td>Common <br> Rare <br> Epic <br> Legendary </td>
-                    <td>+ 2 Extra Inventory Slots <br> +4 Extra Inventory Slots <br> + 6 Extra Inventory Slots <br> +6
-                        Extra Inventory Slots <br> Reviving a downed teammate restores half of their Shield & HP</td>
-                </tr>
-            </table>
-            <br>
+
+            <div class="shield-list-container">
+
+                <div class="shield-item">Shield Item</div>
+                <div class="shield-item">Rarity</div>
+                <div class="shield-item">Effects</div>
+
+                <div class="shield-item" id="body-shield">Body Shield</div>
+
+                <div class="shield-item">Common</div>
+                <div class="shield-item">-Absorbs 50 Damage</div>
+
+                <div class="shield-item">Rare</div>
+                <div class="shield-item">-Absorbs 75 Damage</div>
+
+                <div class="shield-item">Epic</div>
+                <div class="shield-item">-Absorbs 100 Damage</div>
+
+                <div class="shield-item">Red</div>
+                <div class="shield-item">-Absorbs 125 Damage</div>
+
+                <div class="shield-item">Legendary</div>
+                <div class="shield-item">-Absorbs 100 Damage <br> 
+                    -Syringe & Shield Cells are twice as effective
+                </div>
+
+                <div class="shield-item" id="helmet">Helmet</div>
+
+                <div class="shield-item">Common</div>
+                <div class="shield-item">-30% Headshot Damage Reduction</div>
+
+                <div class="shield-item">Rare</div>
+                <div class="shield-item">-40% Headshot Damage Reduction</div>
+
+                <div class="shield-item">Epic</div>
+                <div class="shield-item">-50% Headshot Damage Reduction</div>
+
+                <div class="shield-item">Legendary</div>
+                <div class="shield-item">-50% Headshot Damage Reduction <br> 
+                    -Reduces Tactical & Ultimate Ability Recharge Times
+                </div>
+
+                <div class="shield-item" id="knockdown">Knockdown Shields</div>
+
+                <div class="shield-item">Common</div>
+                <div class="shield-item">-Blocks 100 Damage</div>
+
+                <div class="shield-item">Rare</div>
+                <div class="shield-item">-Blocks 250 Damage</div>
+
+                <div class="shield-item">Epic</div>
+                <div class="shield-item">-Blocks 750 Damage</div>
+
+                <div class="shield-item">Legendary</div>
+                <div class="shield-item">-Blocks 750 Damage <br> 
+                    -Self-Ressurrect When Downed (1 Time)
+                </div>
+
+            </div>
+
+            <div class="backpack-container">
+                <div class="backpack-item">Backpack Items</div>
+                <div class="backpack-item">Rarity</div>
+                <div class="backpack-item">Effects</div>
+
+                <div class="backpack-item" id="backpack">Backpack</div>
+
+                <div class="backpack-item">Common</div>
+                <div class="backpack-item">+2 Extra Inventory Slots</div>
+
+                <div class="backpack-item">Rare</div>
+                <div class="backpack-item">+4 Extra Inventory Slots</div>
+
+                <div class="backpack-item">Epic</div>
+                <div class="backpack-item">+6 Extra Inventory Slots</div>
+
+                <div class="backpack-item">Legendary</div>
+                <div class="backpack-item">+6 Extra Inventory Slots <br> 
+                    Reviving a downed teammate restores half of their Shield & HP
+                </div>
+
+            </div>
+
 
             <!--Add list for Heatshield and Mobile respawn beacon-->
         </div>
@@ -147,6 +186,8 @@
                 allowfullscreen></iframe>
         </div>
     </section>
+
+    <br><br><br>
 
     <!--the code below was taken from http://www.scrolltotop.com/ for a free scroll to top button -->
 
