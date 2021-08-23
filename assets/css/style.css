@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #e0dfdfe8;
+    background-color: #e9d5d5;
     text-align: center;
 }
 
@@ -13,10 +13,10 @@ body {
 
 #logo {
     float: left;
-    font-size: 290%;
+    font-size: 58px;
     margin-left: 20px;
     margin-top: 0px;
-    color: rgba(6, 31, 139, 0.959);
+    color: rgba(83, 84, 94, 0.959);
 }
 
 /* header image + cover text */
@@ -25,7 +25,7 @@ body {
     height: 350px;
     width: 100%;
     overflow: hidden;
-
+    /* border: 0.5px solid black; */
     position: relative;
 }
 
@@ -37,7 +37,7 @@ body {
     background: url('../images/apex-banner-characters.jpg') no-repeat center center;
 }
 
-#cover-text {
+/* #cover-text {
     color: rgb(31, 255, 10);
     font-size: 150%;
     letter-spacing: 4px;
@@ -55,7 +55,7 @@ body {
     left: 750px;
 
     position: absolute;
-}
+} */
 
 /* navigation list */
 
@@ -106,29 +106,50 @@ section div {
     padding-right: 10%;
 }
 
+#common {
+    color: rgb(97, 97, 97);
+}
+
+#rare {
+    color: blue;
+}
+
+#epic {
+    color: purple;
+}
+
+#legendary {
+    color: rgb(153, 133, 20);
+}
+
+#special {
+    color: red;
+}
+
 /* Home page styling */
 
 #main {
     margin-left: 10%;
     margin-right: 10%;
-    font-size: 120%;
+    /* font-size: 120%; */
 }
 
-.index-grid-container {
+/* .index-grid-container {
     display: inline-grid;
     grid-template-columns: auto auto auto;
     background-color: salmon;
     padding: 10px;
+    justify-content: center;
 }
 
 .index-grid-item {
     background-color: seagreen;
     border: 1px solid rgba(6, 31, 139, 0.959);
     font-size: 20px;
-    text-align: center;
+    
     padding: 10px;
     
-}
+} */
 
 #download {
     border: none;
@@ -179,12 +200,12 @@ section div {
 .character-grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
-    background-color: #e0dfdfe8;
+    
     padding: 10px;
 }
 
 .character-grid-item {
-    background-color: #e0dfdfe8;
+    
     /* border: 1px solid rgba(0, 0, 0, 0.8); */
     padding: 10px;
     font-size: 28px;
@@ -269,30 +290,32 @@ section div {
 
 .weapon-attachments {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 260px 500px;
     padding: 10px;
+    justify-content: center;
 }
 
 .attachments {
     padding: 10px;
     font-size: 20px;
     text-align: left;
-    font-weight: bold;
+    
     
     border: 1px solid black;
 }
 
 .weapon-optics {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 250px 480px ;
     padding: 10px;
+    justify-content: center;
 }
 
 .optics {
     padding: 10px;
     font-size: 20px;
-    text-align: left;
-    font-weight: bold;
+    /* text-align: center; */
+    justify-content: center;
     
     border: 1px solid black;
 }
@@ -301,24 +324,25 @@ section div {
 
 .healing-list-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 260px 260px 260px;
     /* background-color: blueviolet; */
     padding: 10px;
+    justify-content: center;
 }
 
 .healing-item {
     padding: 10px;
     font-size: 20px;
     text-align: left;
-    
     border: 1px solid black;
 }
 
 .shield-list-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 300px 260px 260px;
     /* background-color: blueviolet; */
     padding: 10px;
+    justify-content: center;
 }
 
 .shield-item {
@@ -331,21 +355,25 @@ section div {
 
 #body-shield {
     grid-row: 2 / 7;
+    text-align: center;
 }
 
 #helmet {
     grid-row: 7 / 11;
+    text-align: center;
 }
 
 #knockdown {
     grid-row: 11 / 15;
+    text-align: center;
 }
 
 .backpack-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 260px 260px 260px;
     /* background-color: blueviolet; */
     padding: 10px;
+    justify-content: center;
 }
 
 .backpack-item {
@@ -358,6 +386,7 @@ section div {
 
 #backpack {
     grid-row: 2 / 6;
+    text-align: center;
 }
 
 #item-div {
@@ -488,7 +517,7 @@ img {
 
 footer {
     text-align: center;
-    background-color: rgb(51, 44, 44);
+    background-color: rgb(20, 19, 19);
     color: white;
 
     position: fixed;
@@ -496,6 +525,9 @@ footer {
     bottom: 0;
     width: 100%;
     height: 30px;
+
+    font-size: 20px;
+    vertical-align: text-bottom;
 }
 
 /* For larger to medium screen size from 1200px wide and down */
