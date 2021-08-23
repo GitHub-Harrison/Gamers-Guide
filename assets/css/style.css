@@ -106,6 +106,10 @@ section div {
     padding-right: 10%;
 }
 
+p {
+    font-size: 18px;
+}
+
 #common {
     color: rgb(97, 97, 97);
 }
@@ -165,7 +169,7 @@ section div {
     border-radius: 16px;
 }
 
-#character-select {
+/* #character-select {
     max-width: 80%;
     height: auto;
 }
@@ -193,30 +197,80 @@ section div {
 #supply-bin {
     max-width: 100%;
     height: auto;
-}
+} */
 
 /* Characters page styling */
 
-.character-grid-container {
+.offensive-character-container {
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
-    
+    grid-template-columns: 360px 360px 360px;
     padding: 10px;
+    justify-content: center;
 }
 
-.character-grid-item {
-    
-    /* border: 1px solid rgba(0, 0, 0, 0.8); */
+.offensive-character {
     padding: 10px;
     font-size: 28px;
-    text-align: center;
-    font-weight: bold;
 }
 
-.character-grid-item > img {
-    border-radius: 16px;
+.offensive-character > img {
     height: 75%;
     max-width: 100%;
+}
+
+.recon-character-container {
+    display: grid;
+    grid-template-columns: 360px 360px 360px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.recon-character {
+    padding: 10px;
+    font-size: 28px;
+}
+
+.recon-character > img {
+    height: 75%;
+    max-width: 100%;
+}
+
+.defensive-character-container {
+    display: grid;
+    grid-template-columns: 360px 360px 360px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.defensive-character {
+    padding: 10px;
+    font-size: 28px;
+}
+
+.defensive-character > img {
+    height: 75%;
+    max-width: 100%;
+}
+
+.support-character-container {
+    display: grid;
+    grid-template-columns: 360px 360px 360px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.support-character {
+    padding: 10px;
+    font-size: 28px;
+}
+
+.support-character > img {
+    height: 75%;
+    max-width: 100%;
+}
+
+#character-div {
+    text-align: center;
 }
 
 /* Weapons page styling */
@@ -324,7 +378,7 @@ section div {
 
 .healing-list-container {
     display: grid;
-    grid-template-columns: 260px 260px 260px;
+    grid-template-columns: 300px 200px 300px;
     /* background-color: blueviolet; */
     padding: 10px;
     justify-content: center;
@@ -339,7 +393,7 @@ section div {
 
 .shield-list-container {
     display: grid;
-    grid-template-columns: 300px 260px 260px;
+    grid-template-columns: 300px 200px 300px;
     /* background-color: blueviolet; */
     padding: 10px;
     justify-content: center;
@@ -370,7 +424,7 @@ section div {
 
 .backpack-container {
     display: grid;
-    grid-template-columns: 260px 260px 260px;
+    grid-template-columns: 300px 200px 300px;
     /* background-color: blueviolet; */
     padding: 10px;
     justify-content: center;
