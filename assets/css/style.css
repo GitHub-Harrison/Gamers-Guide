@@ -275,6 +275,22 @@ p {
 
 /* Weapons page styling */
 
+.ammo-type-container {
+    display: grid;
+    grid-template-columns: 220px 220px 220px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.ammo-type {
+    padding: 10px;
+    font-size: 20px;
+}
+
+#ammo-grid-header {
+    grid-column: 1 / 4;
+}
+
 .assault-rifle-container {
     display: grid;
     grid-template-columns: 420px 420px;
