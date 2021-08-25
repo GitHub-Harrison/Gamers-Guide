@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #e9d5d5;
+    background-color: #f0e3e3;
     text-align: center;
 
     font-family: 'Lato', sans-serif;
@@ -20,7 +20,7 @@ body {
     font-size: 58px;
     margin-left: 20px;
     margin-top: 0px;
-    color: rgba(83, 84, 94, 0.959);
+    color: rgb(0, 0, 0);
 
     font-family: 'Roboto', sans-serif;
 }
@@ -121,9 +121,10 @@ p {
 #title {
     font-family: 'Roboto', sans-serif;
 }
+/* The colours do not look the same on my main monitor as they do on my second, ditch the idea? */
 
-#common {
-    color: rgb(97, 97, 97);
+/* #common {
+    color: rgb(73, 73, 73);
 }
 
 #rare {
@@ -131,16 +132,16 @@ p {
 }
 
 #epic {
-    color: purple;
+    color: rgb(77, 9, 109);
 }
 
 #legendary {
-    color: rgb(153, 133, 20);
+    color: rgb(207, 179, 16);
 }
 
 #special {
     color: red;
-}
+} */
 
 /* Home page styling */
 
@@ -632,13 +633,10 @@ footer {
     /* vertical-align: text-bottom; */
 }
 
-/* For larger to medium screen size from 1200px wide and down */
-
-
 /* For medium screen sizes from 950px wide and down */ 
 
 @media (max-width: 950px) {
-    *, .healing-list-container, .shield-list-container .backpack-container {
+    * {
         flex-direction: column;
     }
 }
