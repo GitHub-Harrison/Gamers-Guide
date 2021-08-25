@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #e9d5d5;
     text-align: center;
+
+    font-family: 'Lato', sans-serif;
 }
 
 /* Gamers Guide heading/logo */
@@ -17,6 +21,8 @@ body {
     margin-left: 20px;
     margin-top: 0px;
     color: rgba(83, 84, 94, 0.959);
+
+    font-family: 'Roboto', sans-serif;
 }
 
 /* header image + cover text */
@@ -62,6 +68,8 @@ body {
 #menu {
     font-size: 105%;
     letter-spacing: 1.5px;
+
+    font-family: 'Roboto', sans-serif;
 }
 
 #menu, #logo {
@@ -108,6 +116,10 @@ section div {
 
 p {
     font-size: 18px;
+}
+
+#title {
+    font-family: 'Roboto', sans-serif;
 }
 
 #common {
@@ -613,10 +625,11 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 30px;
+    height: 40px;
 
-    font-size: 20px;
-    vertical-align: text-bottom;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    /* vertical-align: text-bottom; */
 }
 
 /* For larger to medium screen size from 1200px wide and down */
