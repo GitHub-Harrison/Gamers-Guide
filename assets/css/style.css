@@ -31,37 +31,15 @@ body {
     height: 350px;
     width: 100%;
     overflow: hidden;
-    /* border: 0.5px solid black; */
     position: relative;
 }
 
 #header-image {
     height: 100%;
     width: auto;
-    /* image is not completely viewable (change image at some point) */ 
     /* image was found by a google image search: https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg */
     background: url('../images/apex-banner-characters.jpg') no-repeat center center;
 }
-
-/* #cover-text {
-    color: rgb(31, 255, 10);
-    font-size: 150%;
-    letter-spacing: 4px;
-    text-align: center;
-
-    width: 500px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background: transparent;
-
-    bottom: 30px;
-    left: 750px;
-
-    position: absolute;
-} */
 
 /* navigation list */
 
@@ -121,52 +99,13 @@ p {
 #title {
     font-family: 'Roboto', sans-serif;
 }
-/* The colours do not look the same on my main monitor as they do on my second, ditch the idea? */
-
-/* #common {
-    color: rgb(73, 73, 73);
-}
-
-#rare {
-    color: blue;
-}
-
-#epic {
-    color: rgb(77, 9, 109);
-}
-
-#legendary {
-    color: rgb(207, 179, 16);
-}
-
-#special {
-    color: red;
-} */
 
 /* Home page styling */
 
 #main {
     margin-left: 10%;
     margin-right: 10%;
-    /* font-size: 120%; */
 }
-
-/* .index-grid-container {
-    display: inline-grid;
-    grid-template-columns: auto auto auto;
-    background-color: salmon;
-    padding: 10px;
-    justify-content: center;
-}
-
-.index-grid-item {
-    background-color: seagreen;
-    border: 1px solid rgba(6, 31, 139, 0.959);
-    font-size: 20px;
-    
-    padding: 10px;
-    
-} */
 
 #download {
     border: none;
@@ -181,36 +120,6 @@ p {
 
     border-radius: 16px;
 }
-
-/* #character-select {
-    max-width: 80%;
-    height: auto;
-}
-
-#ping {
-    max-width: 80%;
-    height: auto;
-}
-
-#in-game-map {
-    max-width: 70%;
-    height: auto;
-}
-
-#respawn-beacon {
-    max-width: 100%;
-    height: auto;
-}
-
-#jump-tower {
-    max-width: 80%;
-    height: auto;
-}
-
-#supply-bin {
-    max-width: 100%;
-    height: auto;
-} */
 
 /* Characters page styling */
 
@@ -419,7 +328,6 @@ p {
 .optics {
     padding: 10px;
     font-size: 20px;
-    /* text-align: center; */
     justify-content: center;
     
     border: 1px solid black;
@@ -430,7 +338,6 @@ p {
 .healing-list-container {
     display: grid;
     grid-template-columns: 300px 200px 300px;
-    /* background-color: blueviolet; */
     padding: 10px;
     justify-content: center;
 }
@@ -445,7 +352,6 @@ p {
 .shield-list-container {
     display: grid;
     grid-template-columns: 300px 200px 300px;
-    /* background-color: blueviolet; */
     padding: 10px;
     justify-content: center;
 }
@@ -476,7 +382,6 @@ p {
 .backpack-container {
     display: grid;
     grid-template-columns: 300px 200px 300px;
-    /* background-color: blueviolet; */
     padding: 10px;
     justify-content: center;
 }
@@ -539,7 +444,6 @@ table, th, td {
 }
 
 .map-grid-item {
-    /* border: 1px solid rgb(0, 0, 0); */
     padding: 10px;
     font-size: 20px;
     text-align: center;
@@ -602,12 +506,6 @@ input[type=radio] {
     font-weight: bolder;
     font-size: larger;
 }
-
-/* video styling */
-
-/* #video {
-    text-align: center;
-} */
 
 /* all image styling */
 
