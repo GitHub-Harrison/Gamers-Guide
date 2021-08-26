@@ -253,4 +253,7 @@ The feedback page inputs work as planned and when the user presses the submit bu
 ## Validator Testing
 
 * HTML
-    
+    * 2 errors and 2 warnings were showing when I ran the code through W3C Validator
+    * 1 of the warning is for code that I did not write so I haven't changed it. The other errors and warning have not been changed as neither of them seem to cause an issue but I will be looking into fixing it.
+
+![HTML Validator](/documentation/readme/screenshots/html-validator.png)
