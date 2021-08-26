@@ -73,6 +73,6 @@ Gamers Guide is a site that aims to provide as much help as possible to getting 
 
 * __Footer__
     * The footer section only includes the name of the site, with a scroll to top button that appears once you have scrolled down the page a certain amount.
-    * The scroll to top button appears half on the footer and half off.
+    * The scroll to top button appears about 3/4 on the footer and 1/4 off.
 
 ![Footer](/documentation/readme/screenshots/footer.png)
