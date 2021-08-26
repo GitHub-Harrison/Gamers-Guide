@@ -10,6 +10,12 @@ Gamers Guide is a site that aims to provide as much help as possible to getting 
 
 ![Navigation Bar](/documentation/readme/screenshots/navigation-bar-screenshot.png)
 
+* __Hero Image__
+    * The hero image for all my pages is an image taken from a google search and has been placed in a way that the characters heads are not visible.
+    * I have chosen this image as its style matches the style of the images for the characters on the character page.
+
+![Hero Image](/documentation/readme/screenshots/hero-image.png)
+
 * __What is Apex Legends?__
     * The what is apex legends section provides an overview of what the game is all about, when it launched, what platforms you can currently play it on and how many people approximately play the game.
     * There is also a video of the offical launch trailer of the game taken directly from their youtube channel, this provides people who are yet to play the game a quick inside look of what they can expect.
@@ -76,3 +82,175 @@ Gamers Guide is a site that aims to provide as much help as possible to getting 
     * The scroll to top button appears about 3/4 on the footer and 1/4 off.
 
 ![Footer](/documentation/readme/screenshots/footer.png)
+
+* __Characters__ 
+    * This section contains several grids under a short paragraph that gives a little information into how you get the characters.
+    * I have kept this text short so the user can focus on seeing what the characters looks like and doesn't have too much to read, especially after all the text on the first page.
+
+![Characters](/documentation/readme/screenshots/characters.png)
+
+* __Offensive Legends__
+    * This is the first grid showing what the offensive characters in apex legends look like.
+    * The layout of this page allows the user to get an idea of what characters might fit their playstyle before they even load up the game. (A more aggresive player would usually lean towards one of these characters)
+
+![Offensive Legends](/documentation/readme/screenshots/offensive-characters.png)
+
+* __Recon Legends__
+    * The next section is similar to the previous except it is showcasing the recon legends within the game.
+    * These characters would fit a player who likes to gather information befoew deciding what to do next.
+
+![Recon Legends](/documentation/readme/screenshots/recon-characters.png)
+
+* __Defensive Legends__
+    * This section follows the recon legends grid and is also its own grid showcasing what the defensive legends look like with their names under their image.
+    * A player who likes to hold down and defend an area would benefit from using one of these characters.
+
+![Defensive Legends](/documentation/readme/screenshots/defensive-characters.png)
+
+* __Support Legends__
+    * This is the final grid for showcasing the characters, it follows the same style as the previous ones.
+    * If the user prefers a supporting role on a team then they are more likely to play either of these support legends which are orientated around helping the team.
+
+![Support Legends](/documentation/readme/screenshots/support-characters.png)
+
+* __Characters Video Playlist__
+    * At the bottom of the Characters page is a embedded YouTube playlist taken directly from the official games YouTube channel.
+    * This video will allow the user to watch whichever characters trailer video they like and will provide them with a better understanding of the characters abilities and how they might be used in game.
+
+![Characters Video Playlist](/documentation/readme/screenshots/character-video-playlist.png)
+
+* __Weapons__
+    * At the top of the weapons page is a title followed by a few lines of text which reinforce what this page is about.
+    * This text allows the user to understand quickly what the aim of this page is (to identify what weapons they can use within the game).
+
+![Weapons Text](/documentation/readme/screenshots/weapons-text.png)
+
+* __Ammo Types__
+    * Ammo Types is the first informative grid section on this page.
+    * The aim of this grid is to show the user what different types of ammo the game has to offer.
+
+![Ammo Type](/documentation/readme/screenshots/ammo-type.png)
+
+* __Assault Rifles__
+    * This section showcases all the current assault rifles within the game alongside their name and what ammo type they use.
+    * The purpose of this section is to provide the user with some quick information on what the weapon looks like and what ammo they would need to use it.
+
+![Assault Rifles](/documentation/readme/screenshots/assault-rifles.png)
+
+* __Sub Machine Guns__
+    * This section showcases all the current sub machine guns within the game alongside their name and what ammo type they use.
+    * The purpose of this section is to provide the user with some quick information on what the weapon looks like and what ammo they would need to use it.
+
+![Sub Machine Guns](/documentation/readme/screenshots/sub-machine-guns.png)
+
+* __Light Machine Guns__
+    * This section showcases all the current light machine guns within the game alongside their name and what ammo type they use.
+    * The purpose of this section is to provide the user with some quick information on what the weapon looks like and what ammo they would need to use it.
+
+![Light Machine Guns](/documentation/readme/screenshots/light-machine-guns.png)
+
+* __Shotguns__
+    * This section showcases all the current shotguns within the game alongside their name and what ammo type they use.
+    * The purpose of this section is to provide the user with some quick information on what the weapon looks like and what ammo they would need to use it.
+
+![Shotguns](/documentation/readme/screenshots/shotguns.png)
+
+* __Marksman Rifles__
+    * This section showcases all the current marksman rifle weapons within the game alongside their name and what ammo type they use.
+    * The purpose of this section is to provide the user with some quick information on what the weapon looks like and what ammo they would need to use it.
+
+![Marksman Rifles](/documentation/readme/screenshots/marksman-rifles.png)
+
+* __Sniper Rifles__
+    * This section showcases all the current sniper rifles within the game alongside their name and what ammo type they use.
+    * The purpose of this section is to provide the user with some quick information on what the weapon looks like and what ammo they would need to use it.
+
+![Sniper Rifles](/documentation/readme/screenshots/sniper-rifles.png)
+
+* __Pistols__
+    * This section showcases all the current pistols within the game alongside their name and what ammo type they use.
+    * The purpose of this section is to provide the user with some quick information on what the weapon looks like and what ammo they would need to use it.
+
+![Pistols](/documentation/readme/screenshots/pistols.png)
+
+* __Weapon Attachments__
+    * The weapon attachments section is designed to show what all the in game attachments look like and what beneift they provide. This section has been split into two seperate sections.
+    * This will also tell the user that weapon attachments can come in different rarity tiers.
+    
+![Weapon Attachments](/documentation/readme/screenshots/weapon-attachments.png)
+
+* __Optics__
+    * Optics is the second part of the weapons attachment section, which provides the user with what optics are in the game and what weapons they can be used on.
+
+![Optics](/documentation/readme/screenshots/optics.png)
+
+* __Weapon Videos__
+    * At the bottom of the weapons page you can find two different youtube videos, one is a weapons tier list which outlines what guns are current the strongest/best to use.
+    * The other video is a guide on the different attachments in the game which explains what these attachments do in more detail to help players better understand their purpose.
+
+![Weapon Videos](/documentation/readme/screenshots/weapon-videos.png)
+
+* __Items__
+    * At the top of the items page is a title reinforcing what this page is designed for.
+
+![Items Title](/documentation/readme/screenshots/item-text.png)
+
+* __Healing Items__
+    * This section focuses on what healing items are currently in the game and what they do as well as how long it takes to use them.
+    * The information provided will help users understand what healing items can be used in the middle of a fight and which ones should be avoided until after the fight has finished.
+
+![Healing Items](/documentation/readme/screenshots/healing-items.png)
+
+* __Shield Items__
+    * The shield items section aims to show the user what shield items in the game look like and what benefit each level of rarity does for the player.
+    * This is a valuable section as it lets the user know what shield items are the highest level and which are the lowest.
+
+![Shield Items](/documentation/readme/screenshots/shield-items.png)
+
+* __Backpack Items__
+    * This section shows the user what each level of backpack looks like and what benefits each level has and what backpack they should ideally keep an eye out for.
+
+![Backpacks](/documentation/readme/screenshots/backpack-items.png)
+
+* __Items Video__
+    * At the bottom of the Items page is a video guide taken from YouTube which if the user wishes will show an inventory guide which.
+    * What the player carries in their inventory is completely up to them but this guide will show what the ideal inventory would look like to ensure the player has enough healing items, ammo and grenades.
+
+![Items Video](/documentation/readme/screenshots/items-video.png)
+
+* __Maps__
+    * The maps page only contains one grid section which contains an image of each map with a bit of text explaining some backstory to each of the maps.
+    * This page is mainly to show users that there are different maps and has the added bonus of providing some backstory.
+
+![Map Kings Canyon](/documentation/readme/screenshots/maps-king.png)
+![Map Olympus](/documentation/readme/screenshots/maps-olympus.png)
+![Map Worlds Edge](/documentation/readme/screenshots/maps-worlds.png)
+
+* __Feedback__
+    * The feedback page only has a couple of questions for the user, the main reason for this is because we are focused on if the user accomplished their goal and if not how can we improve to better meet their needs.
+    * Another question relates to how easy or hard the site was to navigate which is followed by a text box for additional comments which can be anything that the user wishes to share with us.
+
+![Feedback](/documentation/readme/screenshots/feedback.png)
+
+* __Thanks__
+    * The thanks page is a page the user can only reach after submitting the feedback form.
+    * This page is just to thank the user for taking the time to fill out the feedback form and provides a button which will take the user back to the home page (the navigation bar is also available on this page).
+
+![Thank You Page](/documentation/readme/screenshots/thanks.png)
+
+## Testing
+
+Whenever I add a new section or feature to a page before I add or commit the change I will first check that it works correctly and as planned in the browser.
+
+All the navigation works on all pages and has had no issues even with adding more pages.
+
+I have not discovered any bugs while creating this website, however, I did have some problems while trying to create the landing page for the website. After spending several hours on trying to get the landing page working as planned I decided to ditch the landing page idea.
+
+None of the videos start playing until the user clicks on the video, all videos work as planned.
+
+The feedback page inputs work as planned and when the user presses the submit button it takes them to a thank you page which has a return to home button which also works correctly. The only problem at the moment is the feedback can be submitted without being filled in.
+
+## Validator Testing
+
+* HTML
+    
