@@ -100,9 +100,16 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+
+
 /* Home page styling */
 
 #main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#guide {
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -192,10 +199,16 @@ p {
 }
 
 #character-div {
-    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* Weapons page styling */
+
+#weapon-div {
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
 .ammo-type-container {
     display: grid;
