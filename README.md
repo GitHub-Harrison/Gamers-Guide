@@ -258,3 +258,72 @@ The feedback page inputs work as planned and when the user presses the submit bu
 
 * CSS
     * No errors were found when I ran my code through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgithub-harrison.github.io%2FGamers-Guide%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+
+## Unfixed Bugs
+
+* I have not come across any bugs.
+
+## Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the settings tab
+    * From the settings tab scroll down until you see the 'pages' tab on the left.
+    * From the source section drop-down menu, select the main branch
+    * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - https://github-harrison.github.io/Gamers-Guide/
+
+
+## Credits
+
+Majority of the text content and images have been taken either from an already existing site or a quick google search in images.
+
+Here is the list of sources I used: 
+
+__Code__
+* For code that wasn't written by myself
+    * http://www.scrolltotop.com/ - From this website I took a string of code that allowed me to add a scroll to top button at the bottom of my webpages.
+    
+* Sources that helped me better understand the code I used
+    * https://www.w3schools.com/css/css_grid.asp
+    * https://stackoverflow.com/questions/50329700/how-can-i-set-the-width-and-max-width-of-a-css-grid-column 
+
+__Content__
+
+I used many different websites as well as the game to help fill my website with content. None of the images or videos are mine and I have taken them from the sites/links listed below. As for the text, majority of the text was also taken from these links with some minor changes as some of the information was outdated.
+
+The sites I used for my content:
+
+* Text
+    * https://en.wikipedia.org/wiki/Apex_Legends - Text was used in the first section "What is Apex Legends" on the Index page
+    * https://www.ea.com/en-gb/games/apex-legends/news/apex-legends-beginners-guide-tips-and-tricks - Text was used for the "Beginners Guide" section on the Index page
+    * https://www.ea.com/en-gb/games/apex-legends/maps#battle-royale - Text was used on the Maps page to give backstory to the maps
+
+* Videos - All videos were taken from YouTube 
+    * https://www.youtube.com/watch?v=innmNewjkuk - First video on the Index page
+    * https://www.youtube.com/watch?time_continue=282&v=52mMJgP6LY8&feature=emb_logo - Second video on the Index page
+    * https://www.youtube.com/playlist?list=PLnQa3snKdrQqMf3wwlpudEcZg-NrGcufu - Only video on the Characters page
+    * https://www.youtube.com/watch?v=jNL927qvkJ4 - Video on the left of the weapons page
+    * https://www.youtube.com/watch?v=uDplC0NPIbI - Video on the right of the weapons page
+    * https://www.youtube.com/watch?v=5WEOIO77EkY - Only video on the items page
+
+* Images - All Images on the Weapons and Items pages are screenshots that were taken by myself from within the game.
+
+    * https://i.ytimg.com/vi/v4ycQqzDfsE/maxresdefault.jpg - Image used on the Index page
+    * https://assets.rockpapershotgun.com/images/2019/02/apex-supply-bins-690x388.jpg - Image used on the Index page
+    * https://www.gamepur.com/files/inline-images/2018/Apex1_0.jpg - Image used on the Index page
+    * https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/09/apex-legends-jump-tower-map-e1600029355815.jpg - Image used on the Index page
+    * https://www.pcgamesn.com/wp-content/uploads/2019/02/Apex-legends-tips-respawn-beacon-2-900x506.jpg - Image used on the Index page
+    * https://assets.rockpapershotgun.com/images/2020/11/Apex-Legends-Olympus-map.jpg - Image used on the Index page
+    * https://apexlegends.fandom.com/wiki/Legend - Character images taken and used for my character page
+    * https://www.ea.com/en-gb/games/apex-legends/modes/battle-royale - Images of the maps taken and used on my Maps page
+    * https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg - Image taken and used for my hero image
+
+* Font
+    * https://fonts.google.com/specimen/Roboto#license - The font I decided to use for my website as I believe it is a clear and easy to read font
+
+The majority of the text that was used from the above websites has been used on the Index/Home page as well as the Maps page. The text content on the other pages is information that every player of Apex Legends has available to them by loading up the game and viewing the items/attachments within the game.
+
+Some of the text taken and used on the Index/Home page was slightly outdated as there has been many updates to the game and not all of the sites I used have been kept up to date so I made some minor changes to the text but for the most part the text was taken from those links above.
+
+The screenshots taken on the items and weapons page were taken from my game account and cropped/merged in Photoshop. 
