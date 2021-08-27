@@ -253,7 +253,8 @@ The feedback page inputs work as planned and when the user presses the submit bu
 ## Validator Testing
 
 * HTML
-    * 2 errors and 2 warnings were showing when I ran the code through W3C Validator
-    * 1 of the warning is for code that I did not write so I haven't changed it. The other errors and warning have not been changed as neither of them seem to cause an issue but I will be looking into fixing it.
+    * 1 error and 1 warning were showing when I ran the code through [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgithub-harrison.github.io%2FGamers-Guide%2F)
+    * 1 of the warning is for code that I did not write so I haven't changed it. The only error doesn't stop the code from working so I have not 'fixed' it yet.
 
-![HTML Validator](/documentation/readme/screenshots/html-validator.png)
+* CSS
+    * No errors were found when I ran my code through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgithub-harrison.github.io%2FGamers-Guide%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
