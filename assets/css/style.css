@@ -210,6 +210,11 @@ p {
     margin-right: 10%;
 }
 
+#weapon-attachments-div {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 .ammo-type-container {
     display: grid;
     grid-template-columns: 220px 220px 220px;
@@ -461,6 +466,12 @@ table, th, td {
     font-size: 20px;
     text-align: center;
 }
+
+#maps-div {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 
 /* Feedback page */
 
