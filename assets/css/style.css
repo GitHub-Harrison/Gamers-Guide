@@ -74,7 +74,7 @@ body {
     border-bottom: 1px solid black;
 }
 
-/* Font (Find new font) */
+/* Font */
 h2 {
     font-size: 40px;
 }
@@ -99,8 +99,6 @@ p {
 #title {
     font-family: 'Roboto', sans-serif;
 }
-
-
 
 /* Home page styling */
 
@@ -552,7 +550,6 @@ footer {
 
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
-    /* vertical-align: text-bottom; */
 }
 
 /* For medium screen sizes from 950px wide and down */ 
