@@ -60,7 +60,7 @@
 
                     <p>Did you acheive your goal?</p>
 
-                    <input name="goal_acheived" id="yes" type="radio">
+                    <input name="goal_acheived" id="yes" type="radio" required>
                     <label for="yes">Yes</label>
 
                     <br>
@@ -80,22 +80,22 @@
 
                     <p>How did you find navigating through the site?</p>
 
-                    <input name="navigation" value="easy" type="radio">
+                    <input name="navigation" value="easy" id="easy" type="radio" required>
                     <label for="easy">Easy</label>
 
                     <br>
 
-                    <input name="navigation" value="so-so" type="radio">
+                    <input name="navigation" value="so-so" id="so-so" type="radio">
                     <label for="so-so">Normal</label>
 
                     <br>
 
-                    <input name="navigation" value="hard" type="radio">
+                    <input name="navigation" value="hard" id="hard" type="radio">
                     <label for="hard">Hard</label>
 
                     <br>
 
-                    <input name="navigation" value="confusing" type="radio">
+                    <input name="navigation" value="confusing" id="confusing" type="radio">
                     <label for="confusing">Confusing</label>
 
                     <br> <br>
@@ -106,9 +106,11 @@
 
                     <textarea id="add_comments" name="add_comments" rows="4" cols="50"></textarea>
 
-                    <br>
+                    <br> <br>
 
-                    <a href="thanks.html"><input type="button" id="submit" value="Submit Feedback"></a>
+                    <a id="submit" href="thanks.html">Submit</a>
+
+                    <br> 
 
                 </fieldset>
             </form>
