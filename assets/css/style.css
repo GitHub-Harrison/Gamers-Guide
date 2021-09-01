@@ -37,7 +37,8 @@ body {
 #header-image {
     height: 100%;
     width: auto;
-    /* image was found by a google image search: https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg */
+    /* image was found by a google image search: 
+    https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg */
     background: url('../images/apex-banner-characters.jpg') no-repeat center center;
 }
 
@@ -137,7 +138,7 @@ p {
 
 .offensive-character {
     padding: 10px;
-    font-size: 28px;
+    font-size: 32px;
 }
 
 .offensive-character > img {
@@ -154,7 +155,7 @@ p {
 
 .recon-character {
     padding: 10px;
-    font-size: 28px;
+    font-size: 32px;
 }
 
 .recon-character > img {
@@ -171,7 +172,7 @@ p {
 
 .defensive-character {
     padding: 10px;
-    font-size: 28px;
+    font-size: 32px;
 }
 
 .defensive-character > img {
@@ -188,7 +189,7 @@ p {
 
 .support-character {
     padding: 10px;
-    font-size: 28px;
+    font-size: 32px;
 }
 
 .support-character > img {
