@@ -1,6 +1,40 @@
 # Gamers Guide
 Gamers Guide is a site that aims to provide as much help as possible to getting newer players up to speed on one of my favourite games Apex Legends. The site will target gamers that are new to Apex Legends to try and speed them along the learning curve - which for a battle royale game like Apex, can be brutal - as a gamer myself I understand that if you don't enjoy the first few hours/days of a new game you are unlikely to play it again. Gamers Guide will be useful for these new players to understand more about the game and how it was designed to be played before even having to go through the annoyance of dying over and over again without knowing what to change to survive longer.
 
+## Wireframes
+
+Before I started any of the coding I first created some wireframes for how I wanted the project to roughly look.
+
+* __Landing Page Wireframe__
+    * At first I thought of having a landing page for the user to land on which would welcome them to the site and explain what the purpose of the site was, I then decided that I no longer thought a landing page was needed.
+
+![Landing Page Wireframe](/documentation/wireframes/landing-page.png)
+
+* __Home Page Wireframe__
+    * The home page was going to have a simple layout with just some basic information about the game Apex Legends and a video of the official launch trailer.
+
+![Home Page Wireframe](/documentation/wireframes/home.png)
+
+* __Characters Page Wireframe__
+    * The plan for the character page was to have all the characters currently in the game displayed so the user could see what each characters base model looked like and have the characters name under each image.
+
+![Characters Page Wireframe](/documentation/wireframes/characters.png)
+
+* __Weapons Page Wireframe__
+    * The weapons page was going to follow a similar style to the characters page but it would also have the weapon attachments displayed underneath the weapons in either a table or grid layout.
+
+![Weapons Page Wireframe](/documentation/wireframes/weapons.png)
+
+* __Items Page Wireframe__ 
+    * The item page would also follow the previous two pages layout except would be displaying all items in the game.
+
+![Items Page Wireframe](/documentation/wireframes/items.png)
+
+* __Guide Page Wireframe__
+    * The guide page idea was going to have a basic starter guide for the users to quickly understand how the game works as well as tips to help them improve quicker.
+
+![Guide Page Wireframe](/documentation/wireframes/guide.png)
+
 ## Features
 
 * __Navigation Bar__
