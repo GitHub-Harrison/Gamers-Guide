@@ -340,7 +340,7 @@ p {
 
 .weapon-attachments {
     display: grid;
-    grid-template-columns: 260px 500px;
+    grid-template-columns: repeat(2, 1fr);
     padding: 10px;
     justify-content: center;
 }
@@ -356,7 +356,7 @@ p {
 
 .weapon-optics {
     display: grid;
-    grid-template-columns: 250px 480px ;
+    grid-template-columns: repeat(2, 1fr) ;
     padding: 10px;
     justify-content: center;
 }
@@ -373,7 +373,7 @@ p {
 
 .healing-list-container {
     display: grid;
-    grid-template-columns: 300px 200px 300px;
+    grid-template-columns: repeat(3, 1fr);
     padding: 10px;
     justify-content: center;
 }
@@ -387,7 +387,7 @@ p {
 
 .shield-list-container {
     display: grid;
-    grid-template-columns: 300px 200px 300px;
+    grid-template-columns: repeat(3, 1fr);
     padding: 10px;
     justify-content: center;
 }
@@ -406,21 +406,19 @@ p {
     text-align: center;
 }
 
-#helmet
-#helmet-img {
+#helmet {
     grid-row: 7 / 11;
     text-align: center;
 }
 
-#knockdown
-#knockdown-img {
+#knockdown {
     grid-row: 11 / 15;
     text-align: center;
 }
 
 .backpack-container {
     display: grid;
-    grid-template-columns: 300px 200px 300px;
+    grid-template-columns: repeat(3, 1fr);
     padding: 10px;
     justify-content: center;
 }
@@ -434,7 +432,7 @@ p {
 }
 
 #backpack
-#backpack-img {
+ {
     grid-row: 2 / 6;
     text-align: center;
 }
