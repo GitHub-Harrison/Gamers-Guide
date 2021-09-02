@@ -564,6 +564,16 @@ img {
     height: auto;
 }
 
+#body-shield-img {
+    width: 80%;
+}
+
+#helmet-img,
+#knockdown-img,
+#backpack-img {
+    width: 60%;
+}
+
 /* footer */
 
 footer {
