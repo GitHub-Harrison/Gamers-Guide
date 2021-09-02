@@ -307,6 +307,13 @@ The feedback page inputs work as planned and when the user presses the submit bu
 
 The live link can be found here - https://github-harrison.github.io/Gamers-Guide/
 
+## Local Deployment
+
+To make a local copy of this project, you can clone it by typing in your IDE terminal:
+* git clone https://github.com/GitHub-Harrison/Gamers-Guide.git
+
+Alternatively, if using Gitpod, you can click the green Gitpod button, or use [this link](https://gitpod.io/#https://github.com/GitHub-Harrison/Gamers-Guide)
+
 
 ## Credits
 
@@ -360,7 +367,7 @@ The sites I used for my content:
     * https://apexlegends.fandom.com/wiki/Legend - Character images taken and used for my character page
 
     * https://www.ea.com/en-gb/games/apex-legends/modes/battle-royale - Images of the maps taken and used on my Maps page
-    
+
 
 * Font
     * https://fonts.google.com/specimen/Roboto#license - The font I decided to use for my website as I believe it is a clear and easy to read font
