@@ -1,6 +1,8 @@
 # Gamers Guide
 Gamers Guide is a site that aims to provide as much help as possible to getting newer players up to speed on one of my favourite games Apex Legends. The site will target gamers that are new to Apex Legends to try and speed them along the learning curve - which for a battle royale game like Apex, can be brutal - as a gamer myself I understand that if you don't enjoy the first few hours/days of a new game you are unlikely to play it again. Gamers Guide will be useful for these new players to understand more about the game and how it was designed to be played before even having to go through the annoyance of dying over and over again without knowing what to change to survive longer.
 
+![Am I Responsive Screenshot](/documentation/readme/screenshots/am-i-responsive-screenshot.png)
+
 ## Wireframes
 
 Before I started any of the coding I first created some wireframes for how I wanted the project to roughly look.
