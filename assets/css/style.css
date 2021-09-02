@@ -77,12 +77,12 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: #f0e3e3;
     color: black;
 }
 
 .topnav a.active {
-    background-color: #da594d;
+    background-color: red;
     color: white;
 }
 
@@ -540,6 +540,7 @@ input[type=radio] {
     color: rgb(0, 0, 0);
     padding: 15px 32px;
     text-align: center;
+    text-decoration: none;
 
     font-size: 16px;
     font-weight: bold;
