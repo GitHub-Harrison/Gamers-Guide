@@ -326,7 +326,7 @@ Here is the list of sources I used:
 
 __Code__
 * For code that wasn't written by myself
-    * http://www.scrolltotop.com/ - From this website I took a string of code that allowed me to add a scroll to top button at the bottom of my webpages.
+    * https://www.w3schools.com/howto/howto_js_topnav_responsive.asp - This helped me create a more responsive navigation as mine become muddled when being viewed on a smaller screen.
     
 * Sources that helped me better understand the code I used
     * https://www.w3schools.com/css/css_grid.asp
