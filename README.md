@@ -310,7 +310,7 @@ The live link can be found here - https://github-harrison.github.io/Gamers-Guide
 
 ## Credits
 
-Majority of the text content and images have been taken either from an already existing site or a quick google search in images.
+Majority of the text content and images have been taken either from an already existing site.
 
 Here is the list of sources I used: 
 
@@ -343,15 +343,24 @@ The sites I used for my content:
 
 * Images - All Images on the Weapons and Items pages are screenshots that were taken by myself from within the game.
 
-    * https://i.ytimg.com/vi/v4ycQqzDfsE/maxresdefault.jpg - Image used on the Index page
-    * https://assets.rockpapershotgun.com/images/2019/02/apex-supply-bins-690x388.jpg - Image used on the Index page
-    * https://www.gamepur.com/files/inline-images/2018/Apex1_0.jpg - Image used on the Index page
-    * https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/09/apex-legends-jump-tower-map-e1600029355815.jpg - Image used on the Index page
-    * https://www.pcgamesn.com/wp-content/uploads/2019/02/Apex-legends-tips-respawn-beacon-2-900x506.jpg - Image used on the Index page
-    * https://assets.rockpapershotgun.com/images/2020/11/Apex-Legends-Olympus-map.jpg - Image used on the Index page
+    * https://static.invenglobal.com/upload/image/2019/02/11/o1549937467857231.jpeg - Image taken and used for my hero image
+
+    * https://www.youtube.com/watch?v=v4ycQqzDfsE - A screenshot from this video was used as the first image on the Index page - (Character selection screen)
+
+    * https://assets.gamepur.com/files/inline-images/2018/Apex1_0.jpg - Second image used on the index page (Smart comms screenshot)
+
+    * https://kateirwin.medium.com/4-hottest-drops-on-the-new-apex-legends-map-olympus-dd8363199342 - Third image used on the index page (Open in game map)
+
+    * https://gamerant.com/apex-legends-jump-tower-locations/ - Fifth image used on the Index page (Jump tower)
+
+    * https://www.rockpapershotgun.com/apex-legends-loot-1-2-dragons-hot-zone-loot-ticks-finding-the-best-loot-in-apex-legends - Sixth image used on the index page (Supply Bins image)
+
+    * https://www.pcgamesn.com/wp-content/uploads/2019/02/Apex-legends-tips-respawn-beacon-2-900x506.jpg - Fourth image used on the index page (Respawn beacon) 
+
     * https://apexlegends.fandom.com/wiki/Legend - Character images taken and used for my character page
+
     * https://www.ea.com/en-gb/games/apex-legends/modes/battle-royale - Images of the maps taken and used on my Maps page
-    * https://data2.origin.com/asset/content/dam/originx/web/app/games/apex/apex/F2P/merch/Apex_Legends_premier_GDP_v1.jpg/1f9850e2-3c07-476b-ad34-2bcd41874dab/original.jpg - Image taken and used for my hero image
+    
 
 * Font
     * https://fonts.google.com/specimen/Roboto#license - The font I decided to use for my website as I believe it is a clear and easy to read font
