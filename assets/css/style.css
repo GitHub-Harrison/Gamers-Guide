@@ -574,6 +574,46 @@ img {
     width: 60%;
 }
 
+.ammo-type > img {
+    width: 30%;
+}
+
+.assault-rifle > img {
+    width: 80%;
+}
+
+.smg > img {
+    width: 80%;
+}
+
+.lmg > img {
+    width: 80%;
+}
+
+.shotguns > img {
+    width: 80%;
+}
+
+.sniper-rifle > img {
+    width: 80%;
+}
+
+.pistols > img {
+    width: 80%;
+}
+
+.marksman-rifles > img {
+    width: 80%;
+}
+
+.attachments > img {
+    width: 50%;
+}
+
+.optics > img {
+    width: 30%;
+}
+
 /* footer */
 
 footer {
