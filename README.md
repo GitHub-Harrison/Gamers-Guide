@@ -305,6 +305,13 @@ The feedback page inputs work as planned and when the user presses the submit bu
 
 * When testing my site on different browsers I have noticed that on the Brave browser the smooth scroll to top does not work as intended but instead snaps to the top of the page, where as on all other browsers it is a smooth scroll to the top. 
 
+* Below are some screenshots of what the site looks like on different browsers/screensizes.
+
+![Brave Browser](/documentation/readme/screenshots/brave-browser.png)
+![Firefox Browser](/documentation/readme/screenshots/firefox-browser.png)
+![iPad Screenshot in Dev Tools](/documentation/readme/screenshots/ipad-view-in-dev-tools.png)
+![Mobile browser](/documentation/readme/screenshots/mobile-screenshot.png)
+
 ## Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -352,8 +359,8 @@ The sites I used for my content:
     * https://www.youtube.com/watch?v=innmNewjkuk - First video on the Index page
     * https://www.youtube.com/watch?time_continue=282&v=52mMJgP6LY8&feature=emb_logo - Second video on the Index page
     * https://www.youtube.com/playlist?list=PLnQa3snKdrQqMf3wwlpudEcZg-NrGcufu - Only video on the Characters page
-    * https://www.youtube.com/watch?v=jNL927qvkJ4 - Video on the left of the weapons page
-    * https://www.youtube.com/watch?v=uDplC0NPIbI - Video on the right of the weapons page
+    * https://www.youtube.com/watch?v=jNL927qvkJ4 - First video on the weapons page
+    * https://www.youtube.com/watch?v=uDplC0NPIbI - Second video on the weapons page
     * https://www.youtube.com/watch?v=5WEOIO77EkY - Only video on the items page
 
 * Images - All Images on the Weapons and Items pages are screenshots that were taken by myself from within the game.
