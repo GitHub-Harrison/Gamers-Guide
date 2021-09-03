@@ -636,19 +636,9 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 38px;
+    height: 28px;
 
-    font-size: 16px;
     font-family: 'Roboto', sans-serif;
-
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-}
-
-#developer {
-    vertical-align: text-bottom;
-    text-decoration: none;
-    color: white;
 }
 
 /* For medium screen sizes from 950px wide and down */ 
