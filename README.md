@@ -302,6 +302,10 @@ The feedback page inputs work as planned and when the user presses the submit bu
 
 * I have not come across any bugs.
 
+## Browser Compatibility
+
+* When testing my site on different browsers I have noticed that on the Brave browser the smooth scroll to top does not work as intended but instead snaps to the top of the page, where as on all other browsers it is a smooth scroll to the top. 
+
 ## Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
