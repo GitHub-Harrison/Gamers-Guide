@@ -315,7 +315,7 @@ The live link can be found here - https://github-harrison.github.io/Gamers-Guide
 ## Local Deployment
 
 To make a local copy of this project, you can clone it by typing in your IDE terminal:
-* git clone https://github.com/GitHub-Harrison/Gamers-Guide.git
+* `git clone https://github.com/GitHub-Harrison/Gamers-Guide.git`
 
 Alternatively, if using Gitpod, you can click the green Gitpod button, or use [this link](https://gitpod.io/#https://github.com/GitHub-Harrison/Gamers-Guide)
 

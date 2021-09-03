@@ -434,8 +434,7 @@ p {
     border: 1px solid black;
 }
 
-#backpack
- {
+#backpack {
     grid-row: 2 / 6;
     text-align: center;
 }
@@ -565,7 +564,7 @@ img {
 
 .videos {
     width: 100%;
-    height: auto;
+    height: 30vw;
 }
 
 #body-shield-img {
@@ -616,6 +615,10 @@ img {
 
 .optics > img {
     width: 30%;
+}
+
+#section-last {
+    margin-bottom: 5em;
 }
 
 /* footer */
