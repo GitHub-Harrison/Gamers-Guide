@@ -523,7 +523,7 @@ input[type=radio] {
 
 #submit {
     color: rgb(0, 0, 0);
-    padding: auto 5%;
+    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
 
@@ -534,10 +534,6 @@ input[type=radio] {
 
     border: 1px solid black;
     border-radius: 16px;
-}
-
-legend {
-    text-align: center;
 }
 
 #home {
