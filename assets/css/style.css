@@ -641,6 +641,11 @@ footer {
     font-family: 'Roboto', sans-serif;
 }
 
+#developer {
+    text-decoration: none;
+    color: white; 
+}
+
 /* For medium screen sizes from 950px wide and down */ 
 
 @media (max-width: 950px) {
