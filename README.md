@@ -258,9 +258,8 @@ Before I started any of the coding I first created some wireframes for how I wan
     * The maps page only contains one grid section which contains an image of each map with a bit of text explaining some backstory to each of the maps.
     * This page is mainly to show users that there are different maps and has the added bonus of providing some backstory.
 
-![Map Kings Canyon](/documentation/readme/screenshots/maps-king.png)
-![Map Olympus](/documentation/readme/screenshots/maps-olympus.png)
-![Map Worlds Edge](/documentation/readme/screenshots/maps-worlds.png)
+![Maps Screenshot 1](/documentation/readme/screenshots/maps1.png)
+![Maps Screenshot 2](/documentation/readme/screenshots/maps2.png)
 
 * __Feedback__
     * The feedback page only has a couple of questions for the user, the main reason for this is because we are focused on if the user accomplished their goal and if not how can we improve to better meet their needs.
