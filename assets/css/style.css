@@ -104,8 +104,8 @@ h4 {
 }
 
 section div {
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 p {
@@ -119,13 +119,11 @@ p {
 /* Home page styling */
 
 #main {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: auto 5%;
 }
 
 #guide {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: auto 5%;
 }
 
 #download {
@@ -137,7 +135,7 @@ p {
     text-decoration: none;
 
     font-size: 32px;
-    margin: 4px 2px;
+    line-height: 150px;
     cursor: pointer;
 
     border-radius: 16px;
@@ -346,6 +344,7 @@ p {
     grid-template-columns: repeat(2, 1fr);
     padding: 10px;
     justify-content: center;
+    width: 100%;
 }
 
 .attachments {
@@ -362,6 +361,7 @@ p {
     grid-template-columns: repeat(2, 1fr) ;
     padding: 10px;
     justify-content: center;
+    width: 100%;
 }
 
 .optics {
@@ -499,9 +499,10 @@ table, th, td {
 
 .center {
     margin: auto;
-    width: 60%;
+    width: 90%;
     border: 2px solid black;
     padding: 10px;
+    justify-content: center;
 }
 
 #improve  {
@@ -528,7 +529,7 @@ input[type=radio] {
 
     font-size: 16px;
     font-weight: bold;
-    margin: 4px 2px;
+    margin: 10%;
     cursor: pointer;
 
     border: 1px solid black;
@@ -648,6 +649,11 @@ footer {
     * {
         flex-direction: column;
     }
+    .weapon-attachments, .weapon-optics {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -669,5 +675,11 @@ footer {
         float: none;
         display: block;
         text-align: left;
+    }
+}
+
+@media (max-width: 950px) {
+    #maps-div {
+        display: flex;
     }
 }
