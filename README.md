@@ -114,8 +114,7 @@ Before I started any of the coding I first created some wireframes for how I wan
 ![Download Now](/documentation/readme/screenshots/download.png)
 
 * __Footer__
-    * The footer section only includes the name of the site, with a scroll to top button that appears once you have scrolled down the page a certain amount.
-    * The scroll to top button appears about 3/4 on the footer and 1/4 off.
+    * The footer section only includes a sort of watermark of my name which contains a link to my GitHub repository for this site.
 
 ![Footer](/documentation/readme/screenshots/footer.png)
 
