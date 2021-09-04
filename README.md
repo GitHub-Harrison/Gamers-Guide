@@ -40,9 +40,11 @@ Before I started any of the coding I first created some wireframes for how I wan
 ## Features
 
 * __Navigation Bar__
-    * Featured in the top right of all pages, the full responsive navigation bar includes links to the Home, Characters, Weapons, Items, Maps and Feedback page and each bar is identical across the pages. Clicking the logo on the top left of the page will also take the user back to the Home page.
+    * Featured in the top of all pages just under the logo text, the full responsive navigation bar includes links to the Home, Characters, Weapons, Items, Maps and Feedback page and each bar is identical across the pages. Clicking the logo on the top left of the page will also take the user back to the Home page.
 
     * This feature will allow the user to navigate around the site with ease without having to use the 'back' button to visit the previous page.
+
+    * This navigation bar also works well on smaller screen sizes such as mobiles (Screenshots of this are within the testing section).
 
 ![Navigation Bar](/documentation/readme/screenshots/navigation-bar-screenshot.png)
 
